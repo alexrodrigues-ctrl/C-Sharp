@@ -1,0 +1,202 @@
+E:\C#\Praticar\Danilo Aparecido\AppConsole\bin\Debug\netcoreapp3.1\AppConsole.exe
+E:\C#\Praticar\Danilo Aparecido\AppConsole\bin\Debug\netcoreapp3.1\AppConsole.deps.json
+E:\C#\Praticar\Danilo Aparecido\AppConsole\bin\Debug\netcoreapp3.1\AppConsole.runtimeconfig.json
+E:\C#\Praticar\Danilo Aparecido\AppConsole\bin\Debug\netcoreapp3.1\AppConsole.runtimeconfig.dev.json
+E:\C#\Praticar\Danilo Aparecido\AppConsole\bin\Debug\netcoreapp3.1\AppConsole.dll
+E:\C#\Praticar\Danilo Aparecido\AppConsole\bin\Debug\netcoreapp3.1\AppConsole.pdb
+E:\C#\Praticar\Danilo Aparecido\AppConsole\obj\Debug\netcoreapp3.1\AppConsole.csprojAssemblyReference.cache
+E:\C#\Praticar\Danilo Aparecido\AppConsole\obj\Debug\netcoreapp3.1\AppConsole.AssemblyInfoInputs.cache
+E:\C#\Praticar\Danilo Aparecido\AppConsole\obj\Debug\netcoreapp3.1\AppConsole.AssemblyInfo.cs
+E:\C#\Praticar\Danilo Aparecido\AppConsole\obj\Debug\netcoreapp3.1\AppConsole.dll
+E:\C#\Praticar\Danilo Aparecido\AppConsole\obj\Debug\netcoreapp3.1\AppConsole.pdb
+E:\C#\Praticar\Danilo Aparecido\AppConsole\bin\Debug\netcoreapp3.1\AppConsole.dll.config
+E:\C#\Praticar\Danilo Aparecido\AppConsole\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\C#\Praticar\Danilo Aparecido\AppConsole\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\C#\Praticar\Danilo Aparecido\AppConsole\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\C#\Praticar\Danilo Aparecido\AppConsole\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\C#\Praticar\Danilo Aparecido\AppConsole\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\C#\Praticar\Danilo Aparecido\AppConsole\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\C#\Praticar\Danilo Aparecido\AppConsole\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\C#\Praticar\Danilo Aparecido\AppConsole\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\C#\Praticar\Danilo Aparecido\AppConsole\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\C#\Praticar\Danilo Aparecido\AppConsole\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\C#\Praticar\Danilo Aparecido\AppConsole\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\C#\Praticar\Danilo Aparecido\AppConsole\obj\Debug\netcoreapp3.1\AppConsole.csproj.CopyComplete
+C:\Users\alexz\Desktop\AppConsole\bin\Debug\netcoreapp3.1\AppConsole.exe
+C:\Users\alexz\Desktop\AppConsole\bin\Debug\netcoreapp3.1\AppConsole.dll.config
+C:\Users\alexz\Desktop\AppConsole\bin\Debug\netcoreapp3.1\AppConsole.deps.json
+C:\Users\alexz\Desktop\AppConsole\bin\Debug\netcoreapp3.1\AppConsole.runtimeconfig.json
+C:\Users\alexz\Desktop\AppConsole\bin\Debug\netcoreapp3.1\AppConsole.runtimeconfig.dev.json
+C:\Users\alexz\Desktop\AppConsole\bin\Debug\netcoreapp3.1\AppConsole.dll
+C:\Users\alexz\Desktop\AppConsole\bin\Debug\netcoreapp3.1\AppConsole.pdb
+C:\Users\alexz\Desktop\AppConsole\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\alexz\Desktop\AppConsole\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\alexz\Desktop\AppConsole\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\alexz\Desktop\AppConsole\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alexz\Desktop\AppConsole\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\alexz\Desktop\AppConsole\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\alexz\Desktop\AppConsole\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alexz\Desktop\AppConsole\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alexz\Desktop\AppConsole\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alexz\Desktop\AppConsole\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alexz\Desktop\AppConsole\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\alexz\Desktop\AppConsole\obj\Debug\netcoreapp3.1\AppConsole.csprojAssemblyReference.cache
+C:\Users\alexz\Desktop\AppConsole\obj\Debug\netcoreapp3.1\AppConsole.AssemblyInfoInputs.cache
+C:\Users\alexz\Desktop\AppConsole\obj\Debug\netcoreapp3.1\AppConsole.AssemblyInfo.cs
+C:\Users\alexz\Desktop\AppConsole\obj\Debug\netcoreapp3.1\AppConsole.csproj.CopyComplete
+C:\Users\alexz\Desktop\AppConsole\obj\Debug\netcoreapp3.1\AppConsole.dll
+C:\Users\alexz\Desktop\AppConsole\obj\Debug\netcoreapp3.1\AppConsole.pdb
+E:\C#\praticas\aula_danilo\aula15 Polimorfismo\Aula15 polimorfismo\bin\Debug\netcoreapp3.1\AppConsole.exe
+E:\C#\praticas\aula_danilo\aula15 Polimorfismo\Aula15 polimorfismo\bin\Debug\netcoreapp3.1\AppConsole.dll.config
+E:\C#\praticas\aula_danilo\aula15 Polimorfismo\Aula15 polimorfismo\bin\Debug\netcoreapp3.1\AppConsole.deps.json
+E:\C#\praticas\aula_danilo\aula15 Polimorfismo\Aula15 polimorfismo\bin\Debug\netcoreapp3.1\AppConsole.runtimeconfig.json
+E:\C#\praticas\aula_danilo\aula15 Polimorfismo\Aula15 polimorfismo\bin\Debug\netcoreapp3.1\AppConsole.runtimeconfig.dev.json
+E:\C#\praticas\aula_danilo\aula15 Polimorfismo\Aula15 polimorfismo\bin\Debug\netcoreapp3.1\AppConsole.dll
+E:\C#\praticas\aula_danilo\aula15 Polimorfismo\Aula15 polimorfismo\bin\Debug\netcoreapp3.1\AppConsole.pdb
+E:\C#\praticas\aula_danilo\aula15 Polimorfismo\Aula15 polimorfismo\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\C#\praticas\aula_danilo\aula15 Polimorfismo\Aula15 polimorfismo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\C#\praticas\aula_danilo\aula15 Polimorfismo\Aula15 polimorfismo\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\C#\praticas\aula_danilo\aula15 Polimorfismo\Aula15 polimorfismo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\C#\praticas\aula_danilo\aula15 Polimorfismo\Aula15 polimorfismo\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\C#\praticas\aula_danilo\aula15 Polimorfismo\Aula15 polimorfismo\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\C#\praticas\aula_danilo\aula15 Polimorfismo\Aula15 polimorfismo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\C#\praticas\aula_danilo\aula15 Polimorfismo\Aula15 polimorfismo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\C#\praticas\aula_danilo\aula15 Polimorfismo\Aula15 polimorfismo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\C#\praticas\aula_danilo\aula15 Polimorfismo\Aula15 polimorfismo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\C#\praticas\aula_danilo\aula15 Polimorfismo\Aula15 polimorfismo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\C#\praticas\aula_danilo\aula15 Polimorfismo\Aula15 polimorfismo\obj\Debug\netcoreapp3.1\AppConsole.csprojAssemblyReference.cache
+E:\C#\praticas\aula_danilo\aula15 Polimorfismo\Aula15 polimorfismo\obj\Debug\netcoreapp3.1\AppConsole.AssemblyInfoInputs.cache
+E:\C#\praticas\aula_danilo\aula15 Polimorfismo\Aula15 polimorfismo\obj\Debug\netcoreapp3.1\AppConsole.AssemblyInfo.cs
+E:\C#\praticas\aula_danilo\aula15 Polimorfismo\Aula15 polimorfismo\obj\Debug\netcoreapp3.1\AppConsole.csproj.CopyComplete
+E:\C#\praticas\aula_danilo\aula15 Polimorfismo\Aula15 polimorfismo\obj\Debug\netcoreapp3.1\AppConsole.dll
+E:\C#\praticas\aula_danilo\aula15 Polimorfismo\Aula15 polimorfismo\obj\Debug\netcoreapp3.1\AppConsole.pdb
+E:\C#\Aulas_praticas\aula_danilo\aula17 Interface\Aula17 Interface\bin\Debug\netcoreapp3.1\AppConsole.exe
+E:\C#\Aulas_praticas\aula_danilo\aula17 Interface\Aula17 Interface\bin\Debug\netcoreapp3.1\AppConsole.dll.config
+E:\C#\Aulas_praticas\aula_danilo\aula17 Interface\Aula17 Interface\bin\Debug\netcoreapp3.1\AppConsole.deps.json
+E:\C#\Aulas_praticas\aula_danilo\aula17 Interface\Aula17 Interface\bin\Debug\netcoreapp3.1\AppConsole.runtimeconfig.json
+E:\C#\Aulas_praticas\aula_danilo\aula17 Interface\Aula17 Interface\bin\Debug\netcoreapp3.1\AppConsole.runtimeconfig.dev.json
+E:\C#\Aulas_praticas\aula_danilo\aula17 Interface\Aula17 Interface\bin\Debug\netcoreapp3.1\AppConsole.dll
+E:\C#\Aulas_praticas\aula_danilo\aula17 Interface\Aula17 Interface\bin\Debug\netcoreapp3.1\AppConsole.pdb
+E:\C#\Aulas_praticas\aula_danilo\aula17 Interface\Aula17 Interface\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\C#\Aulas_praticas\aula_danilo\aula17 Interface\Aula17 Interface\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\C#\Aulas_praticas\aula_danilo\aula17 Interface\Aula17 Interface\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\C#\Aulas_praticas\aula_danilo\aula17 Interface\Aula17 Interface\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\C#\Aulas_praticas\aula_danilo\aula17 Interface\Aula17 Interface\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\C#\Aulas_praticas\aula_danilo\aula17 Interface\Aula17 Interface\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\C#\Aulas_praticas\aula_danilo\aula17 Interface\Aula17 Interface\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\C#\Aulas_praticas\aula_danilo\aula17 Interface\Aula17 Interface\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\C#\Aulas_praticas\aula_danilo\aula17 Interface\Aula17 Interface\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\C#\Aulas_praticas\aula_danilo\aula17 Interface\Aula17 Interface\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\C#\Aulas_praticas\aula_danilo\aula17 Interface\Aula17 Interface\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\C#\Aulas_praticas\aula_danilo\aula17 Interface\Aula17 Interface\bin\Debug\netcoreapp3.1\Componentes.dll
+E:\C#\Aulas_praticas\aula_danilo\aula17 Interface\Aula17 Interface\bin\Debug\netcoreapp3.1\Componentes.pdb
+E:\C#\Aulas_praticas\aula_danilo\aula17 Interface\Aula17 Interface\obj\Debug\netcoreapp3.1\AppConsole.csprojAssemblyReference.cache
+E:\C#\Aulas_praticas\aula_danilo\aula17 Interface\Aula17 Interface\obj\Debug\netcoreapp3.1\AppConsole.AssemblyInfoInputs.cache
+E:\C#\Aulas_praticas\aula_danilo\aula17 Interface\Aula17 Interface\obj\Debug\netcoreapp3.1\AppConsole.AssemblyInfo.cs
+E:\C#\Aulas_praticas\aula_danilo\aula17 Interface\Aula17 Interface\obj\Debug\netcoreapp3.1\AppConsole.csproj.CopyComplete
+E:\C#\Aulas_praticas\aula_danilo\aula17 Interface\Aula17 Interface\obj\Debug\netcoreapp3.1\AppConsole.dll
+E:\C#\Aulas_praticas\aula_danilo\aula17 Interface\Aula17 Interface\obj\Debug\netcoreapp3.1\AppConsole.pdb
+E:\C#\Aulas_praticas\aula_danilo\aula18 Abstração\Aula18 Abstraçao\bin\Debug\netcoreapp3.1\AppConsole.exe
+E:\C#\Aulas_praticas\aula_danilo\aula18 Abstração\Aula18 Abstraçao\bin\Debug\netcoreapp3.1\AppConsole.dll.config
+E:\C#\Aulas_praticas\aula_danilo\aula18 Abstração\Aula18 Abstraçao\bin\Debug\netcoreapp3.1\AppConsole.deps.json
+E:\C#\Aulas_praticas\aula_danilo\aula18 Abstração\Aula18 Abstraçao\bin\Debug\netcoreapp3.1\AppConsole.runtimeconfig.json
+E:\C#\Aulas_praticas\aula_danilo\aula18 Abstração\Aula18 Abstraçao\bin\Debug\netcoreapp3.1\AppConsole.runtimeconfig.dev.json
+E:\C#\Aulas_praticas\aula_danilo\aula18 Abstração\Aula18 Abstraçao\bin\Debug\netcoreapp3.1\AppConsole.dll
+E:\C#\Aulas_praticas\aula_danilo\aula18 Abstração\Aula18 Abstraçao\bin\Debug\netcoreapp3.1\AppConsole.pdb
+E:\C#\Aulas_praticas\aula_danilo\aula18 Abstração\Aula18 Abstraçao\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\C#\Aulas_praticas\aula_danilo\aula18 Abstração\Aula18 Abstraçao\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\C#\Aulas_praticas\aula_danilo\aula18 Abstração\Aula18 Abstraçao\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\C#\Aulas_praticas\aula_danilo\aula18 Abstração\Aula18 Abstraçao\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\C#\Aulas_praticas\aula_danilo\aula18 Abstração\Aula18 Abstraçao\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\C#\Aulas_praticas\aula_danilo\aula18 Abstração\Aula18 Abstraçao\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\C#\Aulas_praticas\aula_danilo\aula18 Abstração\Aula18 Abstraçao\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\C#\Aulas_praticas\aula_danilo\aula18 Abstração\Aula18 Abstraçao\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\C#\Aulas_praticas\aula_danilo\aula18 Abstração\Aula18 Abstraçao\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\C#\Aulas_praticas\aula_danilo\aula18 Abstração\Aula18 Abstraçao\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\C#\Aulas_praticas\aula_danilo\aula18 Abstração\Aula18 Abstraçao\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\C#\Aulas_praticas\aula_danilo\aula18 Abstração\Aula18 Abstraçao\bin\Debug\netcoreapp3.1\Componentes.dll
+E:\C#\Aulas_praticas\aula_danilo\aula18 Abstração\Aula18 Abstraçao\bin\Debug\netcoreapp3.1\Componentes.pdb
+E:\C#\Aulas_praticas\aula_danilo\aula18 Abstração\Aula18 Abstraçao\obj\Debug\netcoreapp3.1\AppConsole.csprojAssemblyReference.cache
+E:\C#\Aulas_praticas\aula_danilo\aula18 Abstração\Aula18 Abstraçao\obj\Debug\netcoreapp3.1\AppConsole.AssemblyInfoInputs.cache
+E:\C#\Aulas_praticas\aula_danilo\aula18 Abstração\Aula18 Abstraçao\obj\Debug\netcoreapp3.1\AppConsole.AssemblyInfo.cs
+E:\C#\Aulas_praticas\aula_danilo\aula18 Abstração\Aula18 Abstraçao\obj\Debug\netcoreapp3.1\AppConsole.csproj.CopyComplete
+E:\C#\Aulas_praticas\aula_danilo\aula18 Abstração\Aula18 Abstraçao\obj\Debug\netcoreapp3.1\AppConsole.dll
+E:\C#\Aulas_praticas\aula_danilo\aula18 Abstração\Aula18 Abstraçao\obj\Debug\netcoreapp3.1\AppConsole.pdb
+E:\C#\Aulas_praticas\aula_danilo\aula19 Propriedades\Aula19 Propriedades\bin\Debug\netcoreapp3.1\AppConsole.exe
+E:\C#\Aulas_praticas\aula_danilo\aula19 Propriedades\Aula19 Propriedades\bin\Debug\netcoreapp3.1\AppConsole.dll.config
+E:\C#\Aulas_praticas\aula_danilo\aula19 Propriedades\Aula19 Propriedades\bin\Debug\netcoreapp3.1\AppConsole.deps.json
+E:\C#\Aulas_praticas\aula_danilo\aula19 Propriedades\Aula19 Propriedades\bin\Debug\netcoreapp3.1\AppConsole.runtimeconfig.json
+E:\C#\Aulas_praticas\aula_danilo\aula19 Propriedades\Aula19 Propriedades\bin\Debug\netcoreapp3.1\AppConsole.runtimeconfig.dev.json
+E:\C#\Aulas_praticas\aula_danilo\aula19 Propriedades\Aula19 Propriedades\bin\Debug\netcoreapp3.1\AppConsole.dll
+E:\C#\Aulas_praticas\aula_danilo\aula19 Propriedades\Aula19 Propriedades\bin\Debug\netcoreapp3.1\AppConsole.pdb
+E:\C#\Aulas_praticas\aula_danilo\aula19 Propriedades\Aula19 Propriedades\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\C#\Aulas_praticas\aula_danilo\aula19 Propriedades\Aula19 Propriedades\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\C#\Aulas_praticas\aula_danilo\aula19 Propriedades\Aula19 Propriedades\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\C#\Aulas_praticas\aula_danilo\aula19 Propriedades\Aula19 Propriedades\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\C#\Aulas_praticas\aula_danilo\aula19 Propriedades\Aula19 Propriedades\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\C#\Aulas_praticas\aula_danilo\aula19 Propriedades\Aula19 Propriedades\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\C#\Aulas_praticas\aula_danilo\aula19 Propriedades\Aula19 Propriedades\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\C#\Aulas_praticas\aula_danilo\aula19 Propriedades\Aula19 Propriedades\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\C#\Aulas_praticas\aula_danilo\aula19 Propriedades\Aula19 Propriedades\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\C#\Aulas_praticas\aula_danilo\aula19 Propriedades\Aula19 Propriedades\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\C#\Aulas_praticas\aula_danilo\aula19 Propriedades\Aula19 Propriedades\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\C#\Aulas_praticas\aula_danilo\aula19 Propriedades\Aula19 Propriedades\bin\Debug\netcoreapp3.1\Componentes.dll
+E:\C#\Aulas_praticas\aula_danilo\aula19 Propriedades\Aula19 Propriedades\bin\Debug\netcoreapp3.1\Componentes.pdb
+E:\C#\Aulas_praticas\aula_danilo\aula19 Propriedades\Aula19 Propriedades\obj\Debug\netcoreapp3.1\AppConsole.csprojAssemblyReference.cache
+E:\C#\Aulas_praticas\aula_danilo\aula19 Propriedades\Aula19 Propriedades\obj\Debug\netcoreapp3.1\AppConsole.AssemblyInfoInputs.cache
+E:\C#\Aulas_praticas\aula_danilo\aula19 Propriedades\Aula19 Propriedades\obj\Debug\netcoreapp3.1\AppConsole.AssemblyInfo.cs
+E:\C#\Aulas_praticas\aula_danilo\aula19 Propriedades\Aula19 Propriedades\obj\Debug\netcoreapp3.1\AppConsole.csproj.CopyComplete
+E:\C#\Aulas_praticas\aula_danilo\aula19 Propriedades\Aula19 Propriedades\obj\Debug\netcoreapp3.1\AppConsole.dll
+E:\C#\Aulas_praticas\aula_danilo\aula19 Propriedades\Aula19 Propriedades\obj\Debug\netcoreapp3.1\AppConsole.pdb
+E:\C#\Aulas_praticas\aula_danilo\aula21 Singleton - Classe unica\aula21 Singleton - Classe unica\bin\Debug\netcoreapp3.1\AppConsole.exe
+E:\C#\Aulas_praticas\aula_danilo\aula21 Singleton - Classe unica\aula21 Singleton - Classe unica\bin\Debug\netcoreapp3.1\AppConsole.dll.config
+E:\C#\Aulas_praticas\aula_danilo\aula21 Singleton - Classe unica\aula21 Singleton - Classe unica\bin\Debug\netcoreapp3.1\AppConsole.deps.json
+E:\C#\Aulas_praticas\aula_danilo\aula21 Singleton - Classe unica\aula21 Singleton - Classe unica\bin\Debug\netcoreapp3.1\AppConsole.runtimeconfig.json
+E:\C#\Aulas_praticas\aula_danilo\aula21 Singleton - Classe unica\aula21 Singleton - Classe unica\bin\Debug\netcoreapp3.1\AppConsole.runtimeconfig.dev.json
+E:\C#\Aulas_praticas\aula_danilo\aula21 Singleton - Classe unica\aula21 Singleton - Classe unica\bin\Debug\netcoreapp3.1\AppConsole.dll
+E:\C#\Aulas_praticas\aula_danilo\aula21 Singleton - Classe unica\aula21 Singleton - Classe unica\bin\Debug\netcoreapp3.1\AppConsole.pdb
+E:\C#\Aulas_praticas\aula_danilo\aula21 Singleton - Classe unica\aula21 Singleton - Classe unica\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\C#\Aulas_praticas\aula_danilo\aula21 Singleton - Classe unica\aula21 Singleton - Classe unica\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\C#\Aulas_praticas\aula_danilo\aula21 Singleton - Classe unica\aula21 Singleton - Classe unica\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\C#\Aulas_praticas\aula_danilo\aula21 Singleton - Classe unica\aula21 Singleton - Classe unica\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\C#\Aulas_praticas\aula_danilo\aula21 Singleton - Classe unica\aula21 Singleton - Classe unica\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\C#\Aulas_praticas\aula_danilo\aula21 Singleton - Classe unica\aula21 Singleton - Classe unica\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\C#\Aulas_praticas\aula_danilo\aula21 Singleton - Classe unica\aula21 Singleton - Classe unica\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\C#\Aulas_praticas\aula_danilo\aula21 Singleton - Classe unica\aula21 Singleton - Classe unica\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\C#\Aulas_praticas\aula_danilo\aula21 Singleton - Classe unica\aula21 Singleton - Classe unica\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\C#\Aulas_praticas\aula_danilo\aula21 Singleton - Classe unica\aula21 Singleton - Classe unica\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\C#\Aulas_praticas\aula_danilo\aula21 Singleton - Classe unica\aula21 Singleton - Classe unica\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\C#\Aulas_praticas\aula_danilo\aula21 Singleton - Classe unica\aula21 Singleton - Classe unica\bin\Debug\netcoreapp3.1\Componentes.dll
+E:\C#\Aulas_praticas\aula_danilo\aula21 Singleton - Classe unica\aula21 Singleton - Classe unica\bin\Debug\netcoreapp3.1\Componentes.pdb
+E:\C#\Aulas_praticas\aula_danilo\aula21 Singleton - Classe unica\aula21 Singleton - Classe unica\obj\Debug\netcoreapp3.1\AppConsole.csprojAssemblyReference.cache
+E:\C#\Aulas_praticas\aula_danilo\aula21 Singleton - Classe unica\aula21 Singleton - Classe unica\obj\Debug\netcoreapp3.1\AppConsole.AssemblyInfoInputs.cache
+E:\C#\Aulas_praticas\aula_danilo\aula21 Singleton - Classe unica\aula21 Singleton - Classe unica\obj\Debug\netcoreapp3.1\AppConsole.AssemblyInfo.cs
+E:\C#\Aulas_praticas\aula_danilo\aula21 Singleton - Classe unica\aula21 Singleton - Classe unica\obj\Debug\netcoreapp3.1\AppConsole.csproj.CopyComplete
+E:\C#\Aulas_praticas\aula_danilo\aula21 Singleton - Classe unica\aula21 Singleton - Classe unica\obj\Debug\netcoreapp3.1\AppConsole.dll
+E:\C#\Aulas_praticas\aula_danilo\aula21 Singleton - Classe unica\aula21 Singleton - Classe unica\obj\Debug\netcoreapp3.1\AppConsole.pdb
+E:\C#\Aulas_praticas\aula_danilo\aula22 Finalizando Console\aula22 Finalizando Console\obj\Debug\netcoreapp3.1\AppConsole.csprojAssemblyReference.cache
+E:\C#\Aulas_praticas\aula_danilo\aula22 Finalizando Console\aula22 Finalizando Console\obj\Debug\netcoreapp3.1\AppConsole.AssemblyInfoInputs.cache
+E:\C#\Aulas_praticas\aula_danilo\aula22 Finalizando Console\aula22 Finalizando Console\obj\Debug\netcoreapp3.1\AppConsole.AssemblyInfo.cs
+E:\C#\Aulas_praticas\aula_danilo\aula22 Finalizando Console\aula22 Finalizando Console\obj\Debug\netcoreapp3.1\AppConsole.dll
+E:\C#\Aulas_praticas\aula_danilo\aula22 Finalizando Console\aula22 Finalizando Console\obj\Debug\netcoreapp3.1\AppConsole.pdb
+E:\C#\Aulas_praticas\aula_danilo\aula22 Finalizando Console\aula22 Finalizando Console\bin\Debug\netcoreapp3.1\AppConsole.exe
+E:\C#\Aulas_praticas\aula_danilo\aula22 Finalizando Console\aula22 Finalizando Console\bin\Debug\netcoreapp3.1\AppConsole.dll.config
+E:\C#\Aulas_praticas\aula_danilo\aula22 Finalizando Console\aula22 Finalizando Console\bin\Debug\netcoreapp3.1\AppConsole.deps.json
+E:\C#\Aulas_praticas\aula_danilo\aula22 Finalizando Console\aula22 Finalizando Console\bin\Debug\netcoreapp3.1\AppConsole.runtimeconfig.json
+E:\C#\Aulas_praticas\aula_danilo\aula22 Finalizando Console\aula22 Finalizando Console\bin\Debug\netcoreapp3.1\AppConsole.runtimeconfig.dev.json
+E:\C#\Aulas_praticas\aula_danilo\aula22 Finalizando Console\aula22 Finalizando Console\bin\Debug\netcoreapp3.1\AppConsole.dll
+E:\C#\Aulas_praticas\aula_danilo\aula22 Finalizando Console\aula22 Finalizando Console\bin\Debug\netcoreapp3.1\AppConsole.pdb
+E:\C#\Aulas_praticas\aula_danilo\aula22 Finalizando Console\aula22 Finalizando Console\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\C#\Aulas_praticas\aula_danilo\aula22 Finalizando Console\aula22 Finalizando Console\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\C#\Aulas_praticas\aula_danilo\aula22 Finalizando Console\aula22 Finalizando Console\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\C#\Aulas_praticas\aula_danilo\aula22 Finalizando Console\aula22 Finalizando Console\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\C#\Aulas_praticas\aula_danilo\aula22 Finalizando Console\aula22 Finalizando Console\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\C#\Aulas_praticas\aula_danilo\aula22 Finalizando Console\aula22 Finalizando Console\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\C#\Aulas_praticas\aula_danilo\aula22 Finalizando Console\aula22 Finalizando Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\C#\Aulas_praticas\aula_danilo\aula22 Finalizando Console\aula22 Finalizando Console\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\C#\Aulas_praticas\aula_danilo\aula22 Finalizando Console\aula22 Finalizando Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\C#\Aulas_praticas\aula_danilo\aula22 Finalizando Console\aula22 Finalizando Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\C#\Aulas_praticas\aula_danilo\aula22 Finalizando Console\aula22 Finalizando Console\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\C#\Aulas_praticas\aula_danilo\aula22 Finalizando Console\aula22 Finalizando Console\bin\Debug\netcoreapp3.1\Componentes.dll
+E:\C#\Aulas_praticas\aula_danilo\aula22 Finalizando Console\aula22 Finalizando Console\bin\Debug\netcoreapp3.1\Componentes.pdb
+E:\C#\Aulas_praticas\aula_danilo\aula22 Finalizando Console\aula22 Finalizando Console\obj\Debug\netcoreapp3.1\AppConsole.csproj.CopyComplete
