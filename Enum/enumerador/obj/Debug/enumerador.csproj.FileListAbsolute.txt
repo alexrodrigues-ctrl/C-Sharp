@@ -1,0 +1,9 @@
+C:\CSharp\c#\Enum\enumerador\obj\Debug\enumerador.csprojAssemblyReference.cache
+C:\CSharp\c#\Enum\enumerador\obj\Debug\enumerador.TelaJogador.resources
+C:\CSharp\c#\Enum\enumerador\obj\Debug\enumerador.Properties.Resources.resources
+C:\CSharp\c#\Enum\enumerador\obj\Debug\enumerador.csproj.GenerateResource.cache
+C:\CSharp\c#\Enum\enumerador\bin\Debug\enumerador.exe.config
+C:\CSharp\c#\Enum\enumerador\bin\Debug\enumerador.exe
+C:\CSharp\c#\Enum\enumerador\bin\Debug\enumerador.pdb
+C:\CSharp\c#\Enum\enumerador\obj\Debug\enumerador.exe
+C:\CSharp\c#\Enum\enumerador\obj\Debug\enumerador.pdb
